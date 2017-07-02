@@ -1,0 +1,2 @@
+# Contacts_Management
+Contacts Manager is a simple mini project code in C. This is similar to contact manager in Mobile phones. You can add contacts, remove contacts, edit contacts, search contacts and view all contacts. Graphics is not used just a console application suitable for learning purpose for beginner and can be used as a reference for college mini project. In this project you learning file handling, how to write data, delete data and search data form file. 
